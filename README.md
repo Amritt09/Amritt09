@@ -1,8 +1,8 @@
-👋 Hi, I’m  Amrit 
-👀 I’m interested in learning new skill.
-🌱 I’m currently learning C language.
-    I Year CSE.
-    What i know:-Python, HTML,CSS
+Hi, I’m  Amrit 
+I’m interested in learning new skill.
+I’m currently learning C language.
+I Year CSE.
+What i know:-Python, HTML,CSS
 
 
 
