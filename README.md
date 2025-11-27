@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amritpal Singh!
 - 🎓 CS Engineering Student | 2nd Year
-- 🔧 Backend-Focused Developer (C++, C, Python)
+- 🔧 Backend-Focused Developer (C++, JAVA)
 - 🚀 Occasional enjoys Frontend
 - 🤖 Learning AI/ML & NLP
 - 🚀 Currently building: Fake News Detection (ML Project)
