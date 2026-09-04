@@ -1,21 +1,31 @@
-# 👋 Hi, I’m Amritpal Singh!
-- 🎓 CS Engineering Student | 2nd Year
-- 🔧 Backend-Focused Developer (C++, JAVA)
-- 🚀 Occasional enjoys Frontend
-- 🤖 Learning AI/ML & NLP
-- 🚀 Currently building: Fake News Detection (ML Project)
+# 👋 Hi, I'm Amritpal Singh
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational)](https://yourportfolio.com)
+### Computer Science Student | Aspiring Software Engineer
 
-## 🛠️ Tech Stack
-- Languages: `C++`, `Python`, `C`
-- Frontend: `HTML`, `CSS`, `JS`
+I'm a Computer Science student focused on building a strong foundation
+in software engineering, backend development, and problem solving.
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 🛠️ Technical Skills
 
+- **Languages:** Java,SQL
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS
+- **Backend:** JDBC, MySQL
+- **Currently Learning:**AI/ML
+- **Tools:** Git, GitHub
+
+### 🚀 What I'm Working On
+
+- Strengthening Data Structures & Algorithms with Java
+- Building backend applications using Java and MySQL
+- Exploring AI/ML through practical projects
+
+### 📌 Featured Projects
+
+
+
+### 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/amritpal-singh-b44358310
 
 
 
